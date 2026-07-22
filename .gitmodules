@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "grassr"]
+	path = grassr
+	url = https://github.com/defense031/grassr
